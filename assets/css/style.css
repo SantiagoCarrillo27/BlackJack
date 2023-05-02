@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #fff;
+
+}
+html,body{
+    margin: 0px;
+    background-color: #2F4F30;
+    color: #fff;
+    width: 100%;    
+}
+
+.title{
+    background-color: #000;
+    color: #fff;
+    font-size:2rem;
+    padding: 1.1rem;
+    text-align: center;
+    color: #fff;
+}
+
+.section{
+    background-color: #2F4F30;
+    width: 100%;
+    
+}
+.titulos{
+    margin-left: 1.5rem;
+}
+
+.carta{
+    position: relative;
+    left: 100px;
+    margin-left: -75px;
+    width: 150px;
+
+}
+
+.computadora, .jugador{
+    height: 240px;
+}
